@@ -14,4 +14,4 @@
 * John Adams
 + Thomas Jefferson
 
-https://github.com/murattsenel/case_3_sorusu/blob/main/Deneme.md#deneme
+[ders 1](https://github.com/murattsenel/case_3_sorusu/blob/main/Deneme.md#deneme)
