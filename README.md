@@ -13,3 +13,5 @@
 - George Washington
 * John Adams
 + Thomas Jefferson
+
+https://github.com/murattsenel/case_3_sorusu/blob/main/Deneme.md#deneme
