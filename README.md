@@ -15,3 +15,5 @@
 + Thomas Jefferson
 
 [ders 1](https://github.com/murattsenel/case_3_sorusu/blob/main/Deneme.md#deneme)
+
+[sayı sistemleri ödevi](https://github.com/murattsenel/case_3_sorusu/tree/main/01_Sayi_Sistemleri)
